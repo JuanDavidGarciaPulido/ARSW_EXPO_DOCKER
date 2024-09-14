@@ -13,7 +13,7 @@ Before install and run the project you will need:
 3. **Git**
     - Install Git by following the instructions [here](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-4. 4. **Docker**
+4. **Docker**
     - Install Docker by following the instructions [here](https://docs.docker.com/get-docker/).
 
 
